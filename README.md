@@ -1,12 +1,5 @@
 ---
 
-/ \_**\_/ ** \/ ** \/ \_**/****\_**** **\_** / / / / / / /\_/ /\_\_ \/ **\_/ ** `/ ** \
-/ /\_**/ /_/ / _, \_/**\_/ / /**/ /\_/ / / / / \_**\_/\_\_**/_/ |_|/\_**\_/\_**/\__,_/_/ /_/
-
-[![Go Version](https://img.shields.io/github/go-mod/go-version/themirze/corsy)](https://github.com/themirze/corsy) [![License](https://img.shields.io/github/license/themirze/corsy)](https://github.com/themirze/corsy/blob/main/LICENSE) [![Release](https://img.shields.io/github/v/release/themirze/corsy)](https://github.com/themirze/corsy/releases)
-
-</div>
-
 ## 🚀 Features
 
 - ⚡️ **High Performance**: Written in Go for maximum speed and efficiency
