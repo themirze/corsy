@@ -2,7 +2,7 @@
 
 # Download latest version
 echo "Downloading latest version of corsy..."
-curl -s https://api.github.com/repos/YOUR_USERNAME/corsy/releases/latest \
+curl -s https://api.github.com/repos/themirze/corsy/releases/latest \
 | grep "browser_download_url.*corsy" \
 | cut -d : -f 2,3 \
 | tr -d \" \
